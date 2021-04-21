@@ -53,6 +53,7 @@ MENU
     background-image: url(../images/menu.jpg);
     display: flex;
     align-items: center;
+    color: black;
 }
 .wrapper {
     max-width: 300px;
